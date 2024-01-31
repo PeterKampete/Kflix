@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kflix-dev-32317-authRole",
+      "UnauthRoleArn": "arn:aws:iam::652427568005:role/amplify-kflix-dev-32317-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::652427568005:role/amplify-kflix-dev-32317-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-kflix-dev-32317-deployment",
+      "UnauthRoleName": "amplify-kflix-dev-32317-unauthRole",
+      "StackName": "amplify-kflix-dev-32317",
+      "StackId": "arn:aws:cloudformation:eu-north-1:652427568005:stack/amplify-kflix-dev-32317/a0c39ad0-bfdf-11ee-9941-0e3853fda774",
+      "AmplifyAppId": "d30zdf2975nux3"
+    },
+    "categories": {
+      "auth": {
+        "kflix32a90586": {}
+      }
+    }
+  }
+}
